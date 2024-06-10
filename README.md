@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Taekwondo Reaction Trainer
+This project explores innovative approaches to enhance the development of complex cognitive skills required for Taekwondo sparring. Despite advancements in sports science and education, Taekwondo instruction methods have remained largely traditional. 
+The project investigates whether a Taekwondo application leveraging cognitive learning principles, sports psychology, gamification, and technology can positively impact students' ability to develop and practise complex cognitive sparring skills. 
+A prototype reaction trainer application was developed in collaboration with a 5th Dan Taekwondo Master Instructor. The application presents threat scenarios, decision options, measures reaction speed and decision quality, and provides gamified scoring feedback. This approach aims to contribute an original method for supporting complex cognitive skill development in Taekwondo sparring.
