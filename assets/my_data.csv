@@ -1,0 +1,25 @@
+0,2,3,4,Retreating Low Block,Dodge Against Rotation,Dodge With Rotation,Defend Spin Side Kick,assets/node1.mp4
+1,0,0,0,Test Line,Test Line,Test Line,Test Line,assets/node1.mp4
+2,5,5,5,,Next,,Okay Response,assets/node2.mp4
+3,5,5,5,,Next,,Failed Response,assets/node3.mp4
+4,5,5,5,,Next,,Perfect Response,assets/node4.mp4
+5,6,7,8,Forward Low Block,Backwards Low Block,Front Arm Low Block,Defend Front Kick,assets/node5.mp4
+6,9,9,9,,Next,,Okay Response,assets/node6.mp4
+7,9,9,9,,Next,,Perfect Response,assets/node7.mp4
+8,9,9,9,,Next,,Failed Response,assets/node8.mp4
+9,10,11,12,Pulling Arm Grab,Front Arm High Block,Back Arm High Block,Defend Forwards Punch,assets/node9.mp4
+10,13,13,13,,Next,,Perfect Response,assets/node10.mp4
+11,13,13,13,,Next,,Okay Response,assets/node11.mp4
+12,13,13,13,,Next,,Failed Response,assets/node12.mp4
+13,14,15,16,Front Arm Low Block,Dodge Left Kick,Dodge Right,Defend Bicycle Front Kick,assets/node13.mp4
+14,17,17,17,,Next,,Failed Response,assets/node14.mp4
+15,17,17,17,,Next,,Perfect Response,assets/node15.mp4
+16,17,17,17,,Next,,Okay Response,assets/node16.mp4
+17,18,19,20,Apply Arm Lock,Pull Arm Free,Twist Wrist to Escape,Defend Wrist Grab,assets/node17.mp4
+18,21,21,21,,Next,,Perfect Response,assets/node18.mp4
+19,21,21,21,,Next,,Failed Response,assets/node19.mp4
+20,21,21,21,,Next,,Okay Response,assets/node20.mp4
+21,22,23,24,Outer Middle Block,Dodge With Rotation,Twin Wrist Block,Defend Spin Back Fist,assets/node21.mp4
+22,0,0,0,,Next,,Okay Response,assets/node22.mp4
+23,0,0,0,,Next,,Perfect Response,assets/node23.mp4
+24,0,0,0,,Next,,Failed Response,assets/node24.mp4
